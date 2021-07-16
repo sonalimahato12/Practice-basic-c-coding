@@ -1,4 +1,4 @@
-//sum of non prime digits
+// DAY:1  sum of non prime digits
 
 #include<stdio.h>
 int main()
