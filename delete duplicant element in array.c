@@ -1,4 +1,4 @@
-// common element in two array 
+//DAY:3   common element in two array 
 #include <stdio.h>
 int main()
 {
