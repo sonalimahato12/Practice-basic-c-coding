@@ -1,4 +1,4 @@
-//series:0 0 1 1 2 4 7 13 24
+//DAY:6  series:0 0 1 1 2 4 7 13 24
 //explanation: 1st 3 no should be 0 0 1 then 4rth nu will be sum of 1st 3 number and this will go on........
 
 #include<stdio.h>
