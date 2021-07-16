@@ -1,4 +1,4 @@
-//Find nth largest in an array from prepinsta code prime 
+// DAY:2 Find nth largest in an array from prepinsta code prime 
 
 //we can use bubble sort becz in bubble sort in every pass we can find largest ..so can just easily
 //so nth pass so in this way we can find ther nth largest eleemnt
