@@ -1,4 +1,4 @@
-//count element of a string
+//DAY:4  count element of a string
 
 #include<stdio.h>
 #include<string.h>
