@@ -4,6 +4,34 @@
 int main()
 {
 	long int no;
+	int i,sum=0,rem;
+	
+	scanf("%ld",&no);
+	
+	while(no!=0)
+	{
+		rem=no%10;
+		for(i=2;i<rem;i++)
+		{
+			if(rem%i==0)
+			{
+				sum=sum+rem;
+				break;
+			}
+			
+		}
+		no=no/10;
+	}
+	printf("%d",sum);
+	
+}
+
+in other way:
+
+#include<stdio.h>
+int main()
+{
+	long int no;
 	int i,sum=0,rem,count=0;
 	
 	scanf("%ld",&no);
@@ -29,3 +57,4 @@ int main()
 	printf("%d",sum);
 	
 }
+
