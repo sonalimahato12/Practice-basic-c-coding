@@ -1,5 +1,7 @@
 
-
+//Take a array then first set prime number then non prime numbers
+//i/p:1 2 3 4 5
+//o/p:2 3 5 1 4
 #include <stdio.h>
 int main()
 {
