@@ -13,6 +13,7 @@ int count(int a[],int l)
 			if(a[i]==a[j])
 			{
 				flag=1;
+				break;
 			}
 		}
 		if(flag==0)
