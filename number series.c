@@ -1,4 +1,6 @@
-
+//i/p:12 3 1 4 5
+//o/p:0 9 0 0 0        (explain:for 12 =(sum of small elements in right side) * (sum of large elements in right side)
+										//(3+1+4+5) * 0= 0
 #include<conio.h>
 #include <stdio.h>
 int main()
